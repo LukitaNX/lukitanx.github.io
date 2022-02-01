@@ -20,6 +20,4 @@ ScrollReveal().reveal('.social', {delay: 500});
 document.querySelector('.menu-coinlistscg').addEventListener('click', () => {
 document.querySelector('.cg').classList.toggle('showlist');
 });
-document.querySelector('.menu-coinlistscm').addEventListener('click', () => {
-document.querySelector('.cm').classList.toggle('showlist');
-});
+
