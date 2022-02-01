@@ -290,7 +290,47 @@ margin: 50px;
 
     margin:0 auto;
 
+
 }
+
+.footer-container ul li a:hover {
+
+border-bottom: 2px solid #ffffff;
+
+}
+
+.footer-container ul li a.title {
+
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.api-box{
+
+    max-width: 300px;
+    display: none;
+
+}
+
+.cg.showlist {
+
+display: block;
+
+}
+.cm.showlist {
+
+display: block;
+    
+}
+
+.menu-coinlistscg,
+.menu-coinlistscm {
+
+    text-align: center;
+
+}
+
 .footer-container ul li {
 
     line-height: 2.5;
